@@ -4,5 +4,5 @@ database migration
 ## 👽 Commands
 
 ``` shell
-database-migrate-local
+make database-migrate-local
 ```
